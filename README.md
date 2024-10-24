@@ -55,16 +55,6 @@ Follow the prompts in the terminal or use voice commands to interact with the as
 
 Watch Dolphin in action: [Dolphin AI Voice Assistant Demo](https://youtu.be/QBDvRtiYr9o?si=ndoSkPorwRRBcxGY)
 
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or features, feel free to fork the repository and submit a pull request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -m 'Add new feature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Open a pull request
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
