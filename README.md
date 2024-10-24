@@ -2,8 +2,6 @@
 
 Dolphin is an AI voice assistant built with Python designed to help you with daily tasks. With its advanced capabilities, Dolphin can recognize what's on your screen, automate clicks, and manage over 90 common PC tasks, making your day-to-day activities more efficient and productive.
 
-![Dolphin AI Voice Assistant](path_to_your_image) <!-- Replace with the path to your project's image -->
-
 ## Features
 
 - **Screen Recognition**: Identifies and interprets the content displayed on your screen.
@@ -22,7 +20,7 @@ To get started with Dolphin, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Surajpatra700/Dolphin.git
+   git clone https://github.com/Surajpatra700/Dolphin-AI.git
    cd Dolphin
    ```
 
